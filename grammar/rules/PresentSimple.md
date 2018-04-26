@@ -1,5 +1,12 @@
 # Present Simple
 ## When
+1. Always true (Two and two make four)
+2. Permanent situations (I live in London)
+3. Short actions now (He takes the ball and scores a goal)
+4. Habits, use with: twice a month, often, etc. (She plays tennis every Tuesday)
+5. Future timetables, use with: this evening, at 10 o'clock, tomorrow, etc. (Our train leaves at 11am)
+6. Future in time clauses, use with: until, when, as soon as, after, before. (I won't go out until it stops raining)
+7. First and zero conditionals. (If it rains, we won't come)
 
 ## How
 ### Positive
@@ -20,19 +27,19 @@ We `often go` away at weekends.
 `I/we/you/they don't` + verb (infinitive)  
 `he/she/it + doesn't` + verb (infinitive)  
 
-
+I `don't like` football.  
+Sarah `doesn't speak` Italian.  
+My car `doesn't use` much petrol.
 
 ### Questions
+(Question word) + `Do` + `I/we/you/they` + infinitive  
+(Question word) + `Does` + `he/she/it` + infinitive  
+(Question word) + `Do/Does` + subject + `always/often/usually` + infinitive  
 
+What `do you do`?  
+`Do you play` tennis?  
+`Does Gary work` hard?  
 
-
-2. Positive Spelling
-  * `-es` after -s / -sh / -ch (pass -> passes, finish -> finishes, watch -> watches)
-  * `-ies` after -y (study -> studies, try -> tries)
-  * `also` (do -> does, go -> goes)  
-3. Negative
-  * I/we/you/they = don't + verb
-  * he/she/it = doesn't + verb
-4. Questions
-
-## Spelling
+<b>Short answers</b>  
+Yes/No, + `I/we/you/they` + `do`  
+Yes/No, + `he/she/it` + `does`
