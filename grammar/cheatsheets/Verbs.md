@@ -9,3 +9,7 @@
 2. Negative: I/we/you/they/he/she/it + `didn't` + infinitive
 3. Question: `Did` + I/we/you/they/he/she/it + infinitive
 4. Short answers: Yes/No + I/we/you/they/he/she/it + `did/didn't`
+## Future Simple
+1. Positive: I/we/you/they/he/she/it + `will ('ll)` + infinitive, I/we + `shall` + infinitive
+2. Negative: I/we/you/they/he/she/it + `won't` + infinitive
+3. Question: `Will` + I/we/you/they/he/she/it + infinitive
