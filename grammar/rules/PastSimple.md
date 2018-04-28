@@ -15,4 +15,11 @@ He sat down and ordered a coffee.
 If i won the lottery. I would buy a house.  
 <b>Use with: wish, It's time, second conditional.</b>
 ## How
-1. Positive
+1. Positive  
+I/we/you/they/he/she/it + regular verb (-ed) / irregular verb  
+I clean my teeth every morning. This morning I cleaned my teeth.  
+Terry worked in a bank from 1996 to 2003.  
+I usually get up early, but this morning I got up at 9 o'clock.
+2. Negative  
+
+3. Questions
