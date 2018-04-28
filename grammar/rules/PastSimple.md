@@ -22,7 +22,7 @@ I usually get up early, but this morning I got up at 9 o'clock.
 2. Negative: `I/we/you/they/he/she/it + didn't + infinitive`  
 I didn't watch television yesterday.  
 They didn't play football last week.
-3. Questions: `dit + subject + infinitive`  
+3. Questions: `did + subject + infinitive`  
 Did your sister phone you?  
 What did you do last night?
 4. Short answers: `yes/no + I/we/you/they/he/she/it + did/didn't`  
