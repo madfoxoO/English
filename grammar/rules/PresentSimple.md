@@ -20,7 +20,7 @@ If it rains, we won't come.
 ## How
 1. Positive: `I/we/you/they ± always/never/often/usually/sometimes + infinitive` or `he/she/it ± always/never/often/usually/sometimes + verb (-s)`  
 I like big cities.  
-Tim `works` very hard.  
+Tim works very hard.  
 We often go away at weekends.
 2. Negative: `I/we/you/they + don't + infinitive` or `he/she/it + doesn't + infinitive`  
 I don't like football.  
