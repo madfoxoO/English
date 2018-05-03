@@ -1,6 +1,6 @@
 # Present Continuous and Present Simpl
 ## 8.1 Answer the questions about the pictures.
-1. a
+1.
   * Does he take photographs? `Yes, he does`.
   * Is he taking a photograph? `No, he isn't`.
   * What is he doing? `He's having a bath`.
