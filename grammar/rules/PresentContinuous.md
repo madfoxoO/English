@@ -1,5 +1,20 @@
 # Present Continuous
 ## When
+1. `Unfinished actions now`  
+I'm working at the moment.  
+<b>Use with: now, at the moment.</b>
+2. `Temporary situations`  
+I'm living in London.  
+<b>Use with: at the moment, for a few weeks, for a couple of months.</b>
+3. `Temporary habits`  
+He's eating a lot these days.  
+<b>Use with: at the moment, these days.</b>
+4. `Annoying habits`  
+You're forever losing your keys!  
+<b>Use with: always, forever, constantly.</b>
+5. `Definite future plans` (future)  
+I'm meeting my father tomorrow.
+<b>Use with: tomorrow, later, at 7pm tonight, on Tuesday.</b>
 ## How
 1. Positive: `am/is/are + verb(-ing)`  
 I'm working.  
