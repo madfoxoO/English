@@ -1,7 +1,7 @@
 # Past Continuous
 ## When
 1. `Story background`  
-<b>Use with: the past simple<b>  
+<b>Use with: the past simple</b>  
 The birds were singing and the sun was shining. Amy sat down.
 2. `Overlapping action`  
 <b>Use with: when + past simple, tho o'clock, 7 pm.</b>  
