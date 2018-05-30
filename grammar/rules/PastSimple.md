@@ -13,7 +13,7 @@ I've hurt my leg. I fell off a ladder.
 <b>Use with: the past continuous.</b>  
 He sat down and ordered a coffee.
 ### Present / Future
-5. `Unreal or imaginary things in the present or future`  
+1. `Unreal or imaginary things in the present or future`  
 <b>Use with: wish, It's time, second conditional.</b>  
 If i won the lottery. I would buy a house.
 ## How
