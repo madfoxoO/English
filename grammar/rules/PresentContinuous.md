@@ -14,9 +14,9 @@ He's eating a lot these days.
 <b>Use with: always, forever, constantly.</b>  
 You're forever losing your keys!  
 ### Future
-1. `Definite future plans`
+1. `Definite future plans`  
+<b>Use with: tomorrow, later, at 7pm tonight, on Tuesday.</b>  
 I'm meeting my father tomorrow.
-<b>Use with: tomorrow, later, at 7pm tonight, on Tuesday.</b>
 ## How
 1. Positive: `am/is/are + verb(-ing)`  
 I'm working.  
