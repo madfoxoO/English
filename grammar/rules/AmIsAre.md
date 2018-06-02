@@ -1,6 +1,6 @@
 # am/is/are
 ## When
-When we want to talk about something or someone or ask someone about something.
+1. `Present`
 ## How
 1. Positive: `I + am('m)`, `he/she/it + is('s)`, `you/we/they + are('re)`  
 I'm a student.  
@@ -10,7 +10,7 @@ They're hungry.
 I'm not interested in politics.  
 Tom isn't interested in politics.  
 They aren't interested in politics.
-3. Questions: `am + I`, `is + he/she`, `are + we/you/they`  
+3. Questions: `am + I`, `is + he/she/it`, `are + we/you/they`  
 Am I late?  
 Is your mother at home?  
 Are your parents at home?  

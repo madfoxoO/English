@@ -1,5 +1,6 @@
 # Present Simple
 ## When
+### Present
 1. `Always true`  
 Two and two make four.  
 2. `Permanent situations`  
@@ -7,15 +8,17 @@ I live in London
 3. `Short actions now`  
 He takes the ball and scores a goal.
 4. `Habits`  
+<b>Use with: twice a month, on Fridays, often, sometimes.</b>  
 She plays tennis every Tuesday.  
-<b>Use with: twice a month, on Fridays, often, sometimes.</b>
-5. `Future timetables`  
-Our train leaves at 11am.  
-<b>Use with: this evening, at 10 o'clock, tomorrow.</b>
-6. `Future in time clauses`  
-I won't go out until it stops raining.  
-<b>Use with: until, when, as soon as, after, before</b>
-7. `First and zero conditionals`  
+### Future
+1. `Future timetables`  
+<b>Use with: this evening, at 10 o'clock, tomorrow.</b>  
+Our train leaves at 11am.
+2. `Future in time clauses`  
+<b>Use with: until, when, as soon as, after, before</b>  
+I won't go out until it stops raining.
+### Conditionals
+1. `First and zero conditionals`  
 If it rains, we won't come.
 ## How
 1. Positive: `I/we/you/they ± always/never/often/usually/sometimes + infinitive` or `he/she/it ± always/never/often/usually/sometimes + verb (-s)`  
