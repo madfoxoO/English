@@ -1,17 +1,19 @@
 # Future Simple
 ## When
+### Will
 1. `Future prediction`  
 The sun will rise at 7 am.  
 I think the Conservatives will win the next election.
 2. `Promises/requests/refusals/offers`  
 I'll help you with your homework.
 3. `Future conditionals`  
-If it doesn't rain, we'll go to the park.  
-<b>Use with: the first conditional.</b>
-4. `Plans and intentions` (be going to)  
+<b>Use with: the first conditional.</b>  
+If it doesn't rain, we'll go to the park.
+### Be going to
+1. `Plans and intentions`  
 A: We've run out of milk.  
 B: I know. I'm going to buy some.
-5. `Future prediction` (be going to)  
+2. `Future prediction`  
 The sky is getting darker and darker. It's going to rain.
 ## How
 1. Positive: `I/we + will('ll)/shell + infinitive` or `you/they/he/she/it + will('ll) + infinitive`  
